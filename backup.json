@@ -1,0 +1,469 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Robin Newhouse",
+    "label": "PhD Candidate working with the ATLAS experiment at CERN",
+    "image": "",
+    "email": "robinnewhouse@gmail.com",
+    "phone": "5034278710",
+    "url": "",
+    "summary": "Hi! I'm Robin. I'm A PhD candidate in experimental particle physics at the University of British Columbia and working with CERN's Large Hadron Collider. I've also got a BSc in Astrophysics, with a minor in Computer Science. I'm particularly interested in machine learning, data science, and scientific software engineering. I have years of experience extracting quantitative insights from enormous datasets. \n \nI'm personable, enthusiastic, and driven to identify and solve problems. My key experience is in data science, machine learning, object-oriented programming, scientific computing, high-energy physics, grid computing, and automated data pipelines. \n \nI look forward to expanding my skills in intelligent automation, cloud platforms, and ML applications in business environments. Ideally, I'd love to use my skills to solve the pressing tasks of stabilizing our environment and advancing renewable energy. \n \nLet's talk about how I can contribute to your organization!",
+    "location": {
+      "countryCode": "US",
+      "address": "16176 SW Campbell Rd, Hillsboro OR, 97123"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "robinnewhouse",
+        "url": "https://www.linkedin.com/in/robinnewhouse/"
+      },
+      {
+        "network": "Twitter",
+        "username": "RobinNewhouse",
+        "url": "https://twitter.com/RobinNewhouse"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CERN",
+      "position": "Experimental Physics User - ATLAS",
+      "startDate": "2016-09-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Contributed to several widely-cited scientific publications at the high-energy physics frontier using CERN's Large Hadron Collider \n- Implemented crucial particle reconstruction and analysis software in C++, Python, and ROOT for multiple analyses \n-- Modernized analysis framework to use industry-standard data science tools \n-- Managed processing of dozens of petabytes of particle collision data in worldwide LHC computing grid \n-- Regularly presented results at international conferences and internal plenary meetings \n- Extended ATLAS’s charged-particle tracking capabilities to enable searches for long-lived particle signals \n-- Developed machine-learning discriminant to reduce mis-labelled tracks by 95% \n-- Tracking Liason to the ATLAS Machine Learning Working Group (Dec. 2020 – Present) \n- Developed and quantified performance of a novel neural-network-based algorithm to classify high-momentum quarks \n- Lead coordinator for the ATLAS Analysis Software tutorial (Nov. 2020 – Jan 2022) \n-- Developed, maintained, and delivered a week-long tutorial three times per year, aimed at introducing over 300 new PhD students to the complex software and data ecosystem used in ATLAS physics research",
+      "url": "https://www.linkedin.com/company/cern/",
+      "location": "Geneva, Switzerland"
+    },
+    {
+      "name": "The University of British Columbia",
+      "position": "PHD Student – Research Assistant – Teaching Assistant",
+      "startDate": "2016-09-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Prepared and delivered instruction to introductory and intermediate level computer science and physics courses \n- Selected as a TA mentor responsible for feedback and professional development of 15 new teaching assistants \n- Completed the Instructional Skills Workshop for Graduate Students certification, developing teaching theory and practice",
+      "url": "https://www.linkedin.com/school/universityofbc/",
+      "location": "Vancouver, British Columbia, Canada"
+    },
+    {
+      "position": "Private Tutor",
+      "startDate": "2015-04-30",
+      "endDate": "2019-08-31",
+      "highlights": [],
+      "summary": "I provided individualized tutoring programs in physics, math, and computer science individually and as a private contractor through chegg.com. \nMy students showed marked improvement in grades and academic performance",
+      "url": "",
+      "location": "Portland, Oregon, USA  – Vancouver, Canada"
+    },
+    {
+      "name": "TRIUMF",
+      "position": "Accelerator Applications Developer",
+      "startDate": "2014-05-31",
+      "endDate": "2014-12-31",
+      "highlights": [],
+      "summary": "Developed high-level applications for the commissioning and operation of the linear electron accelerator \n• Became familiar with working in a large scientific collaboration \n• Gained experience with open-source software development and contributed significantly to the project \n• Wrote an academic analysis of software engineering techniques used in the project",
+      "url": "https://www.linkedin.com/company/triumf/",
+      "location": "Vancouver, Canada"
+    },
+    {
+      "name": "The University of British Columbia",
+      "position": "Science Student Ambassador",
+      "startDate": "2012-01-31",
+      "endDate": "2014-12-31",
+      "highlights": [],
+      "summary": "Performed multiple tasks pertaining to the recruitment and orientation of prospective and new undergraduate students. Acted as a representative for UBC's undergraduate class. \n- Travelled to multiple states to speak at prospective student information sessions \n- Wrote and delivered presentations to large audiences regarding student life \n- Contacted and spoke to hundreds of prospective students",
+      "url": "https://www.linkedin.com/school/universityofbc/",
+      "location": "Vancouver, Canada"
+    },
+    {
+      "name": "The University of British Columbia Software Practices Lab",
+      "position": "Software Developer and Research Assistant",
+      "startDate": "2012-05-31",
+      "endDate": "2012-08-31",
+      "highlights": [],
+      "summary": "The group aimed to improve model-oriented software engineering techniques by gathering and analyzing data of software developers at General Motors. We developed a mobile Android app for developers to log their interactions with others. By analyzing the collected data, we sought to determine patterns in the development process at GM and propose improvements. \n \n   • Became familiar with the Agile software development methods working as part of a development team \n   • Presented the group’s research at an international conference \n   • Gained extensive experience with version control, android development, and software development standards",
+      "url": "https://www.linkedin.com/school/universityofbc/",
+      "location": "Vancouver, Canada"
+    },
+    {
+      "name": "Fritz-Haber-Institut der Max-Planck-Gesellschaft",
+      "position": "Software Developer and Research Assistant",
+      "startDate": "2013-05-31",
+      "endDate": "2013-12-31",
+      "highlights": [],
+      "summary": "Worked on multiple projects using quantum mechanical molecular simulations \n• Explored Density Functional Theory, its applications, and its various implementations \n• Created a Genetic Algorithm to quickly find the global energy minimum of lattice and cluster structures \n• Became accustomed the standards in a professional theoretical research institute",
+      "url": "https://www.linkedin.com/company/fritz-haber-institut-der-max-planck-gesellschaft/",
+      "location": "Berlin, Germany"
+    },
+    {
+      "name": "The University of British Columbia Department of Physics and Astronomy",
+      "position": "Research Assistant",
+      "startDate": "2011-05-31",
+      "endDate": "2011-09-30",
+      "highlights": [],
+      "summary": "Responsible for the design and testing of the SPIDER II Multi Channel Electronics cooling system \n•\tDeveloped interpersonal, written and verbal  communication skills in a laboratory context with a team of four employees \n•\tUndertook online research and purchasing duties for data-storage systems and various other laboratory equipment \n•\tMaintained clear and accurate records containing involved data related to project progression \n•\tContinued and strengthened research from previous sources through data measurement and analysis \n•\tResearched the most current theories of the Cosmic Microwave Background’s origin and features",
+      "url": "https://www.linkedin.com/school/universityofbc/",
+      "location": "Vancouver, Canada"
+    },
+    {
+      "name": "New Seasons Market",
+      "position": "Courtesy Clerk",
+      "startDate": "2006-06-30",
+      "endDate": "2009-06-30",
+      "highlights": [],
+      "summary": "An enjoyable first job. I learned many soft skills about working in a group, levels of management, and customer interaction.",
+      "url": "https://www.linkedin.com/company/new-seasons-market/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "OMSI",
+      "position": "Public Educator",
+      "startDate": "2015-04-30",
+      "endDate": "2016-06-30",
+      "summary": "I teach children and adults about optical phenomena in the \"Laser Lab\"​ as well as the crossovers between technology and art in the \"Tech/Design Lab\"",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/28730"
+    },
+    {
+      "organization": "UBC Astronomy Club",
+      "position": "President and Lecturer",
+      "startDate": "2012-03-31",
+      "endDate": "2014-02-28",
+      "summary": "As president of the UBC astronomy club my responsibilities included outreach, event planning, department liaison, grant writing, fundraising, and education activities. In my first term as president the club successfully raised $8,000 to properly equip and mount a donated 16 inch Schmidt-Cassegrain telescope valued at $56,000.",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of British Columbia",
+      "area": "Particle Physics",
+      "studyType": "Doctor of Philosophy - PhD",
+      "startDate": "2016-12-31",
+      "endDate": "2021-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "The University of British Columbia",
+      "area": "Astrophysics Major, Computer Science Minor",
+      "studyType": "Bachelor’s Degree",
+      "startDate": "2009-12-31",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": [
+        "ASTR 406 - High Energy Astrophysics",
+        "CPSC 320 - Intermediate Algorithm Design and Analysis",
+        "PHYS 210 - Introduction to Computational Physics",
+        "PHYS 209 - Intermediate Experimental Physics",
+        "PHYS 304 - Introduction to Quantum Mechanics",
+        "PHYS 301 - Electricity and Magnetism",
+        "PHYS 206 - Classical Mechanics",
+        "PHYS 107 & 108 - Enriched Physics I & II",
+        "PHYS 312 - Elementary Differential Equations II"
+      ]
+    },
+    {
+      "institution": "Portland State University",
+      "area": "Physics",
+      "studyType": "Non-Degree",
+      "startDate": "2015-12-31",
+      "endDate": "2015-12-31",
+      "score": "4.0",
+      "courses": [
+        "PH 411 - Intro to Quantum Mechanics"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Undergraduate Speaker at Graduation",
+      "date": "2015-05-31",
+      "awarder": "University of British Columbia Faculty of Science",
+      "summary": "Though not an official distinction, I was asked to speak at my graduation and represent the student body. I was selected for my multi-faceted undergraduate experience and various achievements."
+    },
+    {
+      "title": "Faculty of Science International Student Scholarship",
+      "date": "2013-12-31",
+      "awarder": "University of British Columbia",
+      "summary": ""
+    },
+    {
+      "title": "UBC International Community Achievement Award",
+      "date": "2013-12-31",
+      "awarder": "The University of British Columbia",
+      "summary": "Available to students who have demonstrated leadership in one or more of the following areas:  community service, international engagement, intercultural understanding, promotion of diversity, intellectual pursuits, and artistic or athletic endeavours."
+    }
+  ],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Open XAL Status Report",
+      "publisher": "Internation Particle Accelerator Conference 2015",
+      "releaseDate": "2015-05-04",
+      "summary": "Abstract \nOpen XAL is an accelerator physics software platform developed in collaboration among several facilities around the world. The Open XAL collaboration was formed in 2010 to port, improve and extend the successful XAL platform used at the Spallation Neutron Source for use in the broader accelerator community and to establish it as the standard platform for accelerator physics software. The site-independent core is complete, active applications have been ported, and now we are in the \nprocess of verification and transitioning to using Open XAL in production. This paper will present the current status and a roadmap for this project. ",
+      "url": "https://jacowfs.jlab.org/conf/y15/ipac15/prepress/MOPWI050.PDF"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "High Energy Physics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Astrophysics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scientific Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Observational Astronomy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Public Speaking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LaTeX",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Perl",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "EPICS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Telescope",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "LabVIEW",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Eclipse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Radio Astronomy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lisp",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Event Planning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Solidworks",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android SDK",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Machining",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scientific Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ROOT",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scientific Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Grant Writing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Native Speaker",
+      "language": "English"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "German"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Accelerator Automation Application - Software Design, Implementation, Testing, Documentation - (Java)",
+      "startDate": "2014-12-31",
+      "summary": "An application developed with Open XAL for the electron linear accelerator at TRIUMF National Laboratory. \n• The application automates experiments and procedures while monitoring safety parameters \n• High-level; Scalable complexity; Built for use with any particle accelerator with EPICS controls \n• Program adopted by an open-source software project, Open XAL \n• The application was adopted as a vital tool for commissioning and operating TRIUMF’s linear accelerator",
+      "url": "http://sourceforge.net/projects/xaldev/",
+      "endDate": "2014-12-31"
+    },
+    {
+      "name": "Configuration Scanning Genetic Algorithm - Software Design, Implementation, Testing, Documentation - (Python)",
+      "startDate": "2013-12-31",
+      "summary": "A project as part of a eight-month co-op work term with the Fritz Haber Institute of the Max Planck Society \n• Designed an object-oriented genetic algorithm scheme \n• Successfully implemented using Python and SQLite to be fully modular and extendable \n• Makes use of FHI-aims (Ab-Initio Molecular Simulator) and LAMMPS \n(Large-scale Atomic/Molecular Massively Parallel Simulator) to simulate quantum interactions \n• Implements parallelisation principles to efficiently run on large computing clusters \n• To be included in the FHI-aims package distributed by the Fritz Haber Institute",
+      "url": "https://aimsclub.fhi-berlin.mpg.de/",
+      "endDate": "2013-12-31"
+    },
+    {
+      "name": "Cooling system / Design, Simulation, Prototype Construction and Testing",
+      "startDate": "2012-12-31",
+      "summary": " \nA project as part of a summer co-op work term with the UBC department of Physics and Astronomy \n• Designed a cooling system for the data acquisition computers to be used on the balloon-borne SPIDER II CMB polarimeter \n• Generated multiple designs in Solidworks and used Simulation to conduct precise thermal studies \n• Machined a prototype and in the process gained extensive experience with the mill and lathe \n• Constructed and executed over 10 simulated in-flight tests in a vacuum chamber",
+      "endDate": "2012-12-31"
+    },
+    {
+      "name": "LHC ATLAS Top Quark Data Analysis - Algorithm Implementation, Testing (C++, ROOT)",
+      "startDate": "",
+      "summary": "A directed studies project conducted with the UBC ATLAS group \n• Modified and augmented existing software to search for top-antitop decay signatures in ATLAS data \n• Modified a Kinematic Likelihood Fitting algorithm to separate signal from background \n• Developed testing criteria and tested algorithm with Monte-Carlo-Simulated event data \n• Presented findings at an undergraduate conference \n"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
